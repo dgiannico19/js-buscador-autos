@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces&display=swap');
 
 body {
-  background: url(../fondo.jpg);
-  background-size: cover;
   font-family: 'Staatliches', cursive;
 }
 html {
@@ -11,7 +9,7 @@ html {
 h1 {
   font-family: 'Fraunces', serif;
   font-weight: bold;
-  color: #6c8ef5;
+  color: #515254;
   font-size: 6rem;
   padding: 3rem 0;
   margin: 0;
